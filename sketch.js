@@ -49,6 +49,7 @@ function draw(){
     ground.display();
     pig1.display();
     log1.display();
+    platform.display();
 
     box3.display();
     box4.display();
@@ -60,5 +61,4 @@ function draw(){
     log5.display();
 
     bird.display();
-    platform.display();
 }
